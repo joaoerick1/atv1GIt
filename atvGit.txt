@@ -1,1 +1,3 @@
-Dia normal e DS
+1 criado um arquivodo de texto na branch main
+2 criado a dev escrito na segunda linha 
+3 criado as branch(s) atv (1,2,3)
